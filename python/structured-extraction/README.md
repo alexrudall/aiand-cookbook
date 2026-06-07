@@ -2,6 +2,8 @@
 
 Extract invoice details from plain text into structured JSON using the native ai& Python SDK.
 
+This recipe builds on the ai& [Structured Outputs](https://docs.aiand.com/capabilities/structured-outputs/) docs.
+
 ## Setup
 
 ```sh

@@ -8,6 +8,7 @@ Runnable recipes for the ai& API using the native ai& SDKs.
 
 Extract invoice details from natural-language text into a strict JSON shape.
 
+- Related docs: [Structured Outputs](https://docs.aiand.com/capabilities/structured-outputs/)
 - Python: [`python/structured-extraction`](python/structured-extraction)
 - TypeScript: [`typescript/structured-extraction`](typescript/structured-extraction)
 
@@ -29,4 +30,3 @@ Set your API key before running a recipe:
 ```sh
 export AIAND_API_KEY=your-aiand-api-key
 ```
-
