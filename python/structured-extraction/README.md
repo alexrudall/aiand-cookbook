@@ -4,6 +4,14 @@ Extract invoice details from plain text into structured JSON using the native ai
 
 This recipe builds on the ai& [Structured Outputs](https://docs.aiand.com/capabilities/structured-outputs/) docs.
 
+## What This Demonstrates
+
+- Creating a chat completion with the native ai& Python SDK.
+- Asking the model for JSON that follows a strict schema.
+- Parsing the model output as JSON.
+- Validating the parsed output locally with `jsonschema`.
+- Reading `AIAND_API_KEY` from the environment without hardcoding credentials.
+
 ## Setup
 
 ```sh
