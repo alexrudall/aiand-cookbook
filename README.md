@@ -17,8 +17,6 @@ Both examples read `AIAND_API_KEY` from the environment and use the native ai& S
 - Python package: `aiand`
 - TypeScript package: `@aiand/sdk`
 
-They do not use the OpenAI SDK.
-
 ## Prerequisites
 
 - An ai& API key.
